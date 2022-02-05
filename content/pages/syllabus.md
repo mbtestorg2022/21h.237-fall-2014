@@ -42,12 +42,76 @@ Online Resources
 Assessment
 ----------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class Participation {{< br >}}{{< br >}} This grade will be based on the following: {{< br >}}{{< br >}} 1.  Attendance{{< br >}}    {{< br >}}    _Your attendance is required at all of our meetings._{{< br >}}    {{< br >}}2.  Reading{{< br >}}    {{< br >}}    _You are required to complete all reading assignments in time for the meeting with which they are associated, as indicated on the schedule. You are also required to bring with you to class a copy of any reading that has been assigned._{{< br >}}    {{< br >}}3.  Active Participation{{< br >}}    {{< br >}}    _You are expected to arrive at our weekly meeting having completed all the reading and prepared to pose questions and actively to contribute to the discussion of the material covered that week._{{< br >}}     {{< br >}}{{< br >}}  | 20% |
-| Response Paper (3 at 10% each) | 30% |
-| In-class Test | 20% |
-| Research Project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class Participation
+
+This grade will be based on the following:
+
+1.  Attendance
+    
+    _Your attendance is required at all of our meetings._
+    
+2.  Reading
+    
+    _You are required to complete all reading assignments in time for the meeting with which they are associated, as indicated on the schedule. You are also required to bring with you to class a copy of any reading that has been assigned._
+    
+3.  Active Participation
+    
+    _You are expected to arrive at our weekly meeting having completed all the reading and prepared to pose questions and actively to contribute to the discussion of the material covered that week._
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response Paper (3 at 10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Test
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail on the response papers and the research project, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
